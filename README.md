@@ -13,6 +13,8 @@ AIONET is a next-generation Layer 1 blockchain protocol that fuses:
 
 ### 🌐 Mission
 To redefine trust and transaction verification by blending AI cognition with high-speed memory logic, pushing the blockchain paradigm toward intelligent decentralization.
+🔮 [Read the AIONET Vision Document](./vision.md)
+
 
 ---
 
@@ -45,3 +47,5 @@ To redefine trust and transaction verification by blending AI cognition with hig
 - [ ] Simulate DRAM consensus logic
 - [ ] Publish technical whitepaper
 - [ ] Setup testnet on Substrate
+
+➡️ For long-term goals and philosophical direction, see [`vision.md`](./vision.md)
