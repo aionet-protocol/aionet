@@ -49,5 +49,7 @@ To redefine trust and transaction verification by blending AI cognition with hig
 - [ ] Setup testnet on Substrate
 
 ➡️ For long-term goals and philosophical direction, see [`vision.md`](./vision.md)
+
 [![License: APL-1.0](https://img.shields.io/badge/license-APL--1.0-blue.svg)](./LICENSE)
+
 This project is licensed under the AIONET Public License v1.0 – see the LICENSE file for details.
