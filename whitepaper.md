@@ -9,6 +9,21 @@ Unauthorized reproduction, modification, or commercialization of these concepts 
 AIONET is protected under time-stamped public disclosure as of July 27, 2025, and may be subject to future provisional patent filing.
 ---
 
+## 🗂 Table of Contents
+1. [Introduction](#introduction)  
+2. [Protocol Overview](#protocol-overview)  
+  2.1 [Layered Architecture](#layered-architecture)  
+  2.2 [Validator-Agent Model](#validator-agent-model)  
+3. [Consensus via DRAM—Mining](#consensus-via-dram-mining)  
+4. [Compute Liquidity Protocol](#compute-liquidity-protocol)  
+5. [Identity & Security (Layer 3)](#identity--security-layer-3)  
+6. [Key Use Cases](#key-use-cases)  
+7. [Roadmap (Q3–Q4 2025)](#roadmap-q3q4-2025)  
+8. [Conclusion](#conclusion)  
+
+
+![AIONET Protocol Architecture](aionet_protocol_flow.png)
+
 
 
 
@@ -57,10 +72,12 @@ This shifts validation from passive signature checks to **active reasoning.**
 ## 3. Consensus via DRAM-Mining
 
 Unlike PoW or PoS, AIONET leverages high-speed DRAM to:
-
-* Reduce latency in validation finality
-* Simulate memory-heavy logic for agent execution
-* Disincentivize resource monopolies by normalizing compute via RAM access
+| **Benefit**               | **Explanation**                                     |
+| ------------------------- | --------------------------------------------------- |
+| Reduced Finality Latency  | DRAM access allows real-time validation             |
+| Fair Compute Competition  | Incentivizes RAM contributions over energy or stake |
+| Validator Load Simulation | Enables AI agents to operate at memory-bound speeds |
+| DRAM Entropy Challenge | Introduces time-based randomness for trustless validator scoring |
 
 DRAM becomes a scarce, tradable resource—rewarding hardware contributions over energy consumption.
 
@@ -113,3 +130,13 @@ AIONET is the beginning of a smarter blockchain era — one where every node *th
 > It’s not just blockchain.
 >
 > It’s AIONET: The AI Nervous System.
+
+
+
+
+
+
+---
+Interested in collaborating or licensing AIONET?  
+Contact: aionetprotocol@gmail.com  
+
