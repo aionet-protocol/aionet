@@ -1,3 +1,19 @@
+---
+**Intellectual Property & Disclosure Statement**
+
+The AIONET protocol, including but not limited to its DRAM-mined consensus model, AI validator-agent framework, memory-bound transaction verification, and modular Layer 1–8 architecture, represents proprietary intellectual property developed by SNS Custom Design Inc.
+
+All technical concepts, architectural models, and strategic layer integrations are subject to intellectual property protection and are disclosed here for the purpose of establishing authorship, technical leadership, and innovation priority.
+
+Unauthorized reproduction, modification, or commercialization of these concepts without express written consent from the original author is prohibited.
+
+AIONET is protected under time-stamped public disclosure as of July 27, 2025, and may be subject to future provisional patent filing.
+---
+
+
+
+
+
 # AIONET: A Blockchain-Native Protocol for Intelligent Decentralization
 
 ## Abstract
