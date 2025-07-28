@@ -1,4 +1,3 @@
----
 **Intellectual Property & Disclosure Statement**
 
 The AIONET protocol, including but not limited to its DRAM-mined consensus model, AI validator-agent framework, memory-bound transaction verification, and modular Layer 1–8 architecture, represents proprietary intellectual property developed by SNS Custom Design Inc.
