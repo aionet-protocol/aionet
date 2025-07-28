@@ -52,4 +52,6 @@ Layer 4-8 in development, more is to come but will not yet be made public!!
 
 [![License: APL-1.0](https://img.shields.io/badge/license-APL--1.0-blue.svg)](./LICENSE)
 
-This project is licensed under the AIONET Public License v1.0 – see the LICENSE file for details.
+This project is released under the AIONET Public License v1.0 (APLI-1.0) for community review, educational use, and limited contribution only.
+
+Commercial use, derivative works, or replication of proprietary logic (including DRAM-based mining simulations and AI validator-agent systems) are strictly prohibited without explicit, written authorization from the project founder.
