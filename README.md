@@ -31,15 +31,15 @@ To redefine trust and transaction verification by blending AI cognition with hig
 
 ### 🛠 Tech Stack
 
-| Layer | Tools |
-|-------|-------|
-| L1 | Rust + Substrate |
-| AI | Python + LangChain (future) |
-| L2 Bridge | Ethers.js + Solidity |
-| zk Layer | Circom + SnarkJS |
-| Frontend | React |
-| DevOps | GitHub + Docker |
+🧠 AI Layer – Python, LangChain (future integration)  
+💾 DRAM Layer – Rust, Substrate  
+🌉 Bridge Layer – Solidity, Ethers.js  
+🧬 zk Layer – SnarkJS, Biometric Proofs  
+🌐 Frontend – React  
+⚙️ DevOps – GitHub, Docker  
 
+
+Layer 4-8 in development, more is to come but will not yet be made public!!
 ---
 
 ### 🚧 Phase 1 Goals (July–August)
