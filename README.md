@@ -2,7 +2,7 @@
 
 This paper introduces Proof of Memory (PoM) and Proof of Drift (PoD), defining the foundation of the AIONET consensus architecture.
 
-👉 [Download AIONET_Whitepaper.pdf](/docs/AIONET_Whitepaper.pdf)
+👉 [Download AIONET_Whitepaper.pdf](docs/Aionet_Whitepaper.pdf)
 
 > ⚠️ Commercial use without permission is prohibited. See full clause in the document.
 
